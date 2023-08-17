@@ -5,11 +5,10 @@
   <img src="https://user-images.githubusercontent.com/65084923/236905326-efe684f3-a1d1-4acb-af4d-cf290f8b3982.png" alt="logo" width="100"  height="auto" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="logo" width="100"  height="auto" />
   <br/>
-  <img src="https://raw.githubusercontent.com/webpack/media/master/logo/logo-on-white-bg.png" width="150" alt="logo" />
+  <img src="https://raw.githubusercontent.com/webpack/media/master/logo/logo-on-white-bg.png" width="200" alt="logo" />
   <br/>
 
-  <h3><b>Hello Rails + React - Ruby on Rails</b></h3>
-  <h3><b>Hello Rails + React - ROR Microverse Project Module 6</b></h3>
+  <h3><b>Hello - React on Rails - All in one project</b></h3>
 
 </div>
 
